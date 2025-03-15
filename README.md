@@ -1,19 +1,19 @@
-# Eco-Play com Teclado
+# 🎮 Eco-Play com Teclado
 
-## Descrição
+## 📝 Descrição
 
-Este projeto é uma evolução do Eco-Play, um jogo educativo que ensina sobre sustentabilidade e cuidado com o meio ambiente. Nesta versão, adicionamos a funcionalidade de controle por teclado, proporcionando uma experiência de jogo mais interativa e dinâmica.
+Este projeto é uma evolução do [Eco-Play](https://github.com/Victor-Lis/EcoPlay), um jogo educativo que ensina sobre sustentabilidade e cuidado com o meio ambiente. Nesta versão, adicionamos a funcionalidade de controle por teclado, proporcionando uma experiência de jogo mais interativa e dinâmica.
 
-## Funcionalidades
+## 🎯 Funcionalidades
 
 - **Escolha de turma pelo teclado**: Os jogadores agora podem usar selecionar sua turma para então contar pontuação para sua respectiva sala.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **Linguagem**: C++
 - **Bibliotecas**: [MD_MAX72xx, MD_Parola, SPI, Keypad, WiFi, HTTPClient, ArduinoJson]
 
-## Como Executar
+## 💻 Como Executar
 
 1. Clone o repositório:
     ```bash
@@ -29,7 +29,7 @@ Este projeto é uma evolução do Eco-Play, um jogo educativo que ensina sobre s
     ```
 4. Veja a execução!
 
-## Contribuições
+## 🌱 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ## 👥 Autores
